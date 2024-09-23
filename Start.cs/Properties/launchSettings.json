@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Start.cs": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

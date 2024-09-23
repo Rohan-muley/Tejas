@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROHAN\\source\\repos\\Start.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA739048-DEF9-4215-A0E0-8C4CC133B816}|Start.cs\\Start.cs.csproj|c:\\users\\rohan\\source\\repos\\start.cs\\start.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA739048-DEF9-4215-A0E0-8C4CC133B816}|Start.cs\\Start.cs.csproj|solutionrelative:start.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROHAN\\source\\repos\\Start.cs\\Start.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Start.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\ROHAN\\source\\repos\\Start.cs\\Start.cs\\Program.cs",
+              "RelativeToolTip": "Start.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:46:55.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
